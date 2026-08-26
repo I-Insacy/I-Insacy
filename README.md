@@ -1,5 +1,5 @@
 # Insacy
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWgydXJiMjBpN3B2YXFmZDN6ajZhOGxrOWJwdHhycHE2ZmtibTg2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PZrjGkr334fXa/giphy.gif" />
 </p>
