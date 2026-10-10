@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/73/9e/d3/739ed3f3955356f06352d43eb649168a.gif" width="100%" />
+  <img src="https://i.pinimg.com/1200x/24/e3/8e/24e38e2d508c470982e042e79c757589.jpg" width="100%" />
 </p>
 
 ![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
